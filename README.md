@@ -1,1 +1,1 @@
-# VisualComputingProject
+# Data Augmentation Using Image Generation
