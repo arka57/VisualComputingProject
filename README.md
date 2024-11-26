@@ -22,7 +22,7 @@
 ### Experimental Results
 ![Expermental Results](figures/results.png)
 
-## Plots
+## Plots of different splits
 
 ### Training accuracy
 ![Training accuracy](figures/train_a.png)
@@ -35,3 +35,17 @@
 
 ### Validation loss
 ![Validation loss](figures/val_l.png)
+
+## Plots of Unbalanced and Balanced splits
+
+### Training accuracy
+![Training accuracy](figures/train_b_a.png)
+
+### Training loss
+![Training loss](figures/train_b_l.png)
+
+### Validation accuracy
+![Validation accuracy](figures/val_b_a.png)
+
+### Validation loss
+![Validation loss](figures/val_b_l.png)
