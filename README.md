@@ -16,17 +16,9 @@
 
 ## Figures
 
-### Results
+### Our Method
+![Block Diagram](figures/block_diagram.png)
+
+### Experimental Results
 ![Expermental Results](figures/results.png)
 
-### Figure 1: Sample Images from Unbalanced Dataset
-![Figure 1: Sample Images from Unbalanced Dataset](figures/unbalanced_dataset_sample.png)
-
-### Figure 2: Generated Images for Data Augmentation
-![Figure 2: Generated Images for Data Augmentation](figures/generated_images.png)
-
-### Figure 3: Class Distribution - Before and After Augmentation
-![Figure 3: Class Distribution - Before and After Augmentation](figures/class_distribution_comparison.png)
-
-### Figure 4: Model Performance Comparison
-![Figure 4: Model Performance Comparison](figures/model_performance.png)
