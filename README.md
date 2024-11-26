@@ -31,7 +31,7 @@
 ![Training loss](figures/train_l.png)
 
 ### Validation accuracy
-![Validation accuracy](val_a/results.png)
+![Validation accuracy](figures/val_a.png)
 
 ### Validation loss
 ![Validation loss](figures/val_l.png)
