@@ -3,7 +3,7 @@ import numpy as np
 import random
 
 # Define the path to the dataset
-dataset_path = "E:/Internship/tiny-imagenet-200/tiny-imagenet-200/train"
+dataset_path = "E:/tiny-imagenet-200/tiny-imagenet-200/train"
 
 # Get the list of all class folders in the dataset
 class_folders = [os.path.join(dataset_path, folder) for folder in os.listdir(dataset_path) if os.path.isdir(os.path.join(dataset_path, folder))]
