@@ -17,6 +17,7 @@
 ## Figures
 
 ### Our Method
+<img src="figures/block_diagram.png" alt="Block Diagram" width="400"/>
 ![Block Diagram](figures/block_diagram.png)
 
 ### Experimental Results
