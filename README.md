@@ -17,9 +17,21 @@
 ## Figures
 
 ### Our Method
-<img src="figures/block_diagram.png" alt="Block Diagram" width="400"/>
 ![Block Diagram](figures/block_diagram.png)
 
 ### Experimental Results
 ![Expermental Results](figures/results.png)
 
+## Plots
+
+### Training accuracy
+![Training accuracy](figures/train_a.png)
+
+### Training loss
+![Training loss](figures/train_l.png)
+
+### Validation accuracy
+![Validation accuracy](val_a/results.png)
+
+### Validation loss
+![Validation loss](figures/val_l.png)
